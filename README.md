@@ -9,7 +9,7 @@
 
 ## Gerador de Memes
 
-✔ UChama uma API que gera memes aleatórios e fixa textos no topo e fundo.  
+✔ Chama uma API que gera memes aleatórios e fixa textos no topo e fundo.  
 ✔ Construído com React.  
 ✔ Inteiramente dinâmico com Props, useReact e useEffect.  
 ✔ Responsivo.  
