@@ -66,6 +66,7 @@ main {
   background-color: red;
   max-width: 50%;
   margin: 0 auto;
+  word-break: break-all;
 }
 
 .meme--image {
@@ -73,6 +74,7 @@ main {
   width: 100%;
   border-radius: 3px;
   margin: 0 auto;
+
 }
 
 .meme--text {
@@ -88,6 +90,7 @@ main {
   text-transform: uppercase;
   color: white;
   letter-spacing: 1px;
+  
   text-shadow:
     2px 2px 0 #000,
     -2px -2px 0 #000,
